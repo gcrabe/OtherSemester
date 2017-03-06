@@ -12,7 +12,7 @@ package main;
 public class Solution {
 
     private static final int MAXN = 1000;
-    private static final double LAMBDA = 0.10;
+    private static final double LAMBDA = 0.075;
     private static final double TIME = 10.0;
     private static final double EPS = 1e-5;
     
