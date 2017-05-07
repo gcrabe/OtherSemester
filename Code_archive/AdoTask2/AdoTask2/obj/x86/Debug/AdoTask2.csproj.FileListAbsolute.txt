@@ -1,0 +1,5 @@
+C:\THE_CODE\AdoTask2\AdoTask2\bin\Debug\AdoTask2.exe
+C:\THE_CODE\AdoTask2\AdoTask2\bin\Debug\AdoTask2.pdb
+C:\THE_CODE\AdoTask2\AdoTask2\obj\x86\Debug\AdoTask2.csprojResolveAssemblyReference.cache
+C:\THE_CODE\AdoTask2\AdoTask2\obj\x86\Debug\AdoTask2.exe
+C:\THE_CODE\AdoTask2\AdoTask2\obj\x86\Debug\AdoTask2.pdb

@@ -1,0 +1,20 @@
+﻿Построение начато 17.05.2016 0:49:29.
+     1>Проект "C:\THE_CODE\acml_test\acml_test\acml_test.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "x64\Debug\acml_test.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W1 /WX- /O2 /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\THE_CODE\acml_test\x64\Debug\acml_test.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib libacml_mp_dll.lib /MANIFEST /ManifestFile:"x64\Debug\acml_test.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"C:\THE_CODE\acml_test\x64\Debug\acml_test.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\THE_CODE\acml_test\x64\Debug\acml_test.lib" /MACHINE:X64 x64\Debug\main.obj
+         acml_test.vcxproj -> C:\THE_CODE\acml_test\x64\Debug\acml_test.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\THE_CODE\acml_test\x64\Debug\acml_test.exe;#1" /manifest x64\Debug\acml_test.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "x64\Debug\acml_test.unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\acml_test.lastbuildstate".
+     1>Построение проекта "C:\THE_CODE\acml_test\acml_test\acml_test.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.78

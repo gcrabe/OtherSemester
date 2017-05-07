@@ -1,0 +1,10 @@
+C:\THE CODE\Ado_Task1\Ado_Task1\bin\Debug\Ado_Task1.exe
+C:\THE CODE\Ado_Task1\Ado_Task1\bin\Debug\Ado_Task1.pdb
+C:\THE CODE\Ado_Task1\Ado_Task1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\THE CODE\Ado_Task1\Ado_Task1\obj\x86\Debug\Ado_Task1.exe
+C:\THE CODE\Ado_Task1\Ado_Task1\obj\x86\Debug\Ado_Task1.pdb
+C:\THE_CODE\Ado_Task1\Ado_Task1\obj\x86\Debug\Ado_Task1.exe
+C:\THE_CODE\Ado_Task1\Ado_Task1\obj\x86\Debug\Ado_Task1.pdb
+C:\THE_CODE\Ado_Task1\Ado_Task1\bin\Debug\Ado_Task1.exe
+C:\THE_CODE\Ado_Task1\Ado_Task1\bin\Debug\Ado_Task1.pdb
+C:\THE_CODE\Ado_Task1\Ado_Task1\obj\x86\Debug\ResolveAssemblyReference.cache

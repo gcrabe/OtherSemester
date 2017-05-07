@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Biblio>
+  <Book>
+    <Title>Moby Dick</Title>
+    <Author>Herman Melville</Author>
+    <Binding>hardcover</Binding>
+    <Pages>724</Pages>
+    <Prise>9.95</Prise>
+  </Book>
+  <Book>
+    <Title>The Great Gatsby</Title>
+    <Author>F. Scott Fitzgerald</Author>
+    <Binding>hardcover</Binding>
+    <Pages>250</Pages>
+    <Prise>3.95</Prise>
+  </Book>
+</Biblio>

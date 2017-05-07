@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Biblio>
+  <Book>
+    <Title>Moby Dick</Title>
+    <Author>Herman Melville</Author>
+    <Binding>hardcover</Binding>
+    <Pages>724</Pages>
+    <Prise>9.95</Prise>
+  </Book>
+  <Book>
+    <Title>Henry VIII</Title>
+    <Author>William Shakespeare</Author>
+    <Binding>hardcover</Binding>
+    <Pages>180</Pages>
+    <Prise>6.95</Prise>
+  </Book>
+</Biblio>

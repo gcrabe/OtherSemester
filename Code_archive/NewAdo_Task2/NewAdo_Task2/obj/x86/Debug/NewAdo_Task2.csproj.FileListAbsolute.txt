@@ -1,0 +1,7 @@
+C:\THE_CODE\NewAdo_Task2\NewAdo_Task2\bin\Debug\NewAdo_Task2.exe
+C:\THE_CODE\NewAdo_Task2\NewAdo_Task2\bin\Debug\NewAdo_Task2.pdb
+C:\THE_CODE\NewAdo_Task2\NewAdo_Task2\obj\x86\Debug\NewAdo_Task2.exe
+C:\THE_CODE\NewAdo_Task2\NewAdo_Task2\obj\x86\Debug\NewAdo_Task2.pdb
+C:\THE_CODE\NewAdo_Task2\NewAdo_Task2\bin\Debug\xmlfile.xml
+C:\THE_CODE\NewAdo_Task2\NewAdo_Task2\obj\x86\Debug\NewAdo_Task2.csprojResolveAssemblyReference.cache
+C:\THE_CODE\NewAdo_Task2\NewAdo_Task2\bin\Debug\xsdfile.xsd

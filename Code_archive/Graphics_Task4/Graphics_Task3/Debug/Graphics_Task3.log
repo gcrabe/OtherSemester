@@ -1,0 +1,39 @@
+﻿Построение начато 06.05.2016 18:09:53.
+     1>Проект "C:\THE_CODE\Graphics_Task4\Graphics_Task3\Graphics_Task3.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Graphics_Task3.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Graphics_Task3.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt Graphics_Task3.cpp /clr:nostdlib 
+         Graphics_Task3.cpp
+     1>Graphics_Task3.cpp(3): warning C4005: __CLR_VER: изменение макроопределения
+                 аргументы командной строки:  см. предыдущее определение "__CLR_VER"
+     1>Graphics_Task3.cpp(3): warning C4651: параметр "/D__CLR_VER=40030319" указан для предкомпилированного заголовка, но не для текущей компиляции
+     1>c:\the_code\graphics_task4\graphics_task3\Form1.h(164): warning C4101: TmpRef: неиспользованная локальная переменная
+     1>c:\the_code\graphics_task4\graphics_task3\Form1.h(398): warning C4305: аргумент: усечение из "double" к "float"
+         Для всех выходных данных обновления не требуется.
+       CoreResGen:
+         Отсутствуют ресурсы, устаревшие по отношению к файлам своих источников. Пропуск формирования ресурсов.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\THE_CODE\Graphics_Task4\Debug\Graphics_Task3.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Graphics_Task3.Form1.resources /MANIFEST /ManifestFile:"Debug\Graphics_Task3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\THE_CODE\Graphics_Task4\Debug\Graphics_Task3.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\Clip.obj
+         Debug\Graphics_Task3.obj
+         Debug\stdafx.obj
+         Debug\Transform.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Graphics_Task3.vcxproj -> C:\THE_CODE\Graphics_Task4\Debug\Graphics_Task3.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\THE_CODE\Graphics_Task4\Debug\Graphics_Task3.exe;#1" /manifest Debug\Graphics_Task3.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\Graphics_Task3.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Graphics_Task3.lastbuildstate".
+     1>Построение проекта "C:\THE_CODE\Graphics_Task4\Graphics_Task3\Graphics_Task3.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.47

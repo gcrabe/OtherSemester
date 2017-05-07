@@ -1,0 +1,12 @@
+C:\Users\Виктор\Desktop\Компьютерная графика\3\3\bin\Debug\3.exe.config
+C:\Users\Виктор\Desktop\Компьютерная графика\3\3\bin\Debug\3.exe
+C:\Users\Виктор\Desktop\Компьютерная графика\3\3\bin\Debug\3.pdb
+C:\Users\Виктор\Desktop\Компьютерная графика\3\3\obj\Debug\3.csprojResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\Компьютерная графика\3\3\obj\Debug\_3.Form1.resources
+C:\Users\Виктор\Desktop\Компьютерная графика\3\3\obj\Debug\_3.Properties.Resources.resources
+C:\Users\Виктор\Desktop\Компьютерная графика\3\3\obj\Debug\3.csproj.GenerateResource.Cache
+C:\Users\Виктор\Desktop\Компьютерная графика\3\3\obj\Debug\3.exe
+C:\Users\Виктор\Desktop\Компьютерная графика\3\3\obj\Debug\3.pdb
+C:\Users\Виктор\Desktop\Компьютерная графика\Сданные задачи\3\3\bin\Debug\3.exe.config
+C:\Users\Виктор\Desktop\Компьютерная графика\Сданные задачи\3\3\obj\Debug\3.exe
+C:\Users\Виктор\Desktop\Компьютерная графика\Сданные задачи\3\3\obj\Debug\3.pdb

@@ -1,0 +1,6 @@
+C:\THE_CODE\NewAdo_Task1\NewAdo_Task1\bin\Debug\input.txt
+C:\THE_CODE\NewAdo_Task1\NewAdo_Task1\bin\Debug\NewAdo_Task1.exe
+C:\THE_CODE\NewAdo_Task1\NewAdo_Task1\bin\Debug\NewAdo_Task1.pdb
+C:\THE_CODE\NewAdo_Task1\NewAdo_Task1\obj\x86\Debug\NewAdo_Task1.exe
+C:\THE_CODE\NewAdo_Task1\NewAdo_Task1\obj\x86\Debug\NewAdo_Task1.pdb
+C:\THE_CODE\NewAdo_Task1\NewAdo_Task1\obj\x86\Debug\NewAdo_Task1.csprojResolveAssemblyReference.cache

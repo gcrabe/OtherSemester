@@ -1,0 +1,26 @@
+frame 0 0 4500 3000
+translate 2000 -2800
+figure
+rotate -330
+translate -800 0
+figure
+rotate -330
+translate -800 0
+figure
+rotate -330
+translate -800 0
+figure
+translate 1890 1100
+rotate -90
+rotate 330
+translate 800 0
+figure
+rotate 330
+translate 800 0
+figure
+rotate 330
+translate 800 0
+figure
+translate 0 700
+scale 2
+figure

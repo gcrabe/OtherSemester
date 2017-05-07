@@ -1,0 +1,70 @@
+# кадр - все представленное изображение
+frame 0 0 4500 3000
+translate 500 -600
+figure
+rotate -30
+translate -400 0
+figure
+translate 400 0
+rotate 30
+rotate 30
+translate 350 220
+figure
+rotate 30
+translate 350 200
+figure
+rotate 30
+translate 350 200
+figure
+rotate 30
+translate 350 200
+figure
+rotate 30
+translate 350 200
+figure
+rotate 30
+translate 350 200
+figure
+rotate 30
+translate 350 200
+figure
+translate -350 -200
+rotate -30
+translate 200 -800
+scale 1.5
+figure
+scale 0.66
+rotate -180
+translate 2500 700
+figure
+rotate 30
+translate 350 220
+figure
+translate -350 -220
+rotate -30
+rotate -30
+translate -400 0
+figure
+rotate -30
+translate -400 0
+figure
+rotate -30
+translate -400 0
+figure
+rotate -30
+translate -400 0
+figure
+rotate -30
+translate -400 0
+figure
+rotate -30
+translate -400 0
+figure
+rotate -30
+translate -400 0
+figure
+translate 400 0
+rotate 30
+translate -300 -800
+scale 1.5
+figure

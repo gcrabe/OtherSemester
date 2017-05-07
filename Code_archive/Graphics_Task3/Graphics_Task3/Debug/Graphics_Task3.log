@@ -1,0 +1,73 @@
+﻿Построение начато 14.10.2016 20:57:27.
+     1>Проект "D:\THE_CODE\Graphics_Task3\Graphics_Task3\Graphics_Task3.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Graphics_Task3.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Graphics_Task3.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt stdafx.cpp /clr:nostdlib 
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Graphics_Task3.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt AssemblyInfo.cpp Graphics_Task3.cpp Transform.cpp /clr:nostdlib 
+         AssemblyInfo.cpp
+         Graphics_Task3.cpp
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(169): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(170): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(234): warning C4305: аргумент: усечение из "double" к "float"
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(239): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(240): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(252): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(253): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(266): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(266): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(267): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(267): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(279): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(279): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(280): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(280): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(293): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(293): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(294): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(294): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(297): warning C4305: аргумент: усечение из "double" к "float"
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(306): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(306): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(307): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(307): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(320): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(321): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(324): warning C4305: аргумент: усечение из "double" к "float"
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(333): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(334): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(346): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(347): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(350): warning C4305: аргумент: усечение из "double" к "float"
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(359): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\the_code\graphics_task3\graphics_task3\Form1.h(360): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+         Transform.cpp
+     1>Transform.cpp(70): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+         Создание кода...
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\gc\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       CoreResGen:
+         Отсутствуют ресурсы, устаревшие по отношению к файлам своих источников. Пропуск формирования ресурсов.
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\app.res" app.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\THE_CODE\Graphics_Task3\Debug\Graphics_Task3.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Graphics_Task3.Form1.resources /MANIFEST /ManifestFile:"Debug\Graphics_Task3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\THE_CODE\Graphics_Task3\Debug\Graphics_Task3.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\Graphics_Task3.obj
+         Debug\stdafx.obj
+         Debug\Transform.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Graphics_Task3.vcxproj -> D:\THE_CODE\Graphics_Task3\Debug\Graphics_Task3.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\THE_CODE\Graphics_Task3\Debug\Graphics_Task3.exe;#1" /manifest Debug\Graphics_Task3.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\Graphics_Task3.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Graphics_Task3.lastbuildstate".
+     1>Построение проекта "D:\THE_CODE\Graphics_Task3\Graphics_Task3\Graphics_Task3.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:10.67

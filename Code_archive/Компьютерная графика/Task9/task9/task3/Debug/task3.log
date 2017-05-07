@@ -1,0 +1,29 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (task3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : командная строка warning D9035: использование параметра "clr:pure" нежелательно, он будет удален в следующих выпусках
+  stdafx.cpp
+cl : командная строка warning D9035: использование параметра "clr:pure" нежелательно, он будет удален в следующих выпусках
+  AssemblyInfo.cpp
+AssemblyInfo.cpp(40): warning C4947: System::Security::Permissions::SecurityAction::RequestMinimum: помечен как устаревший
+  AssemblyInfo.cpp(40): note: Сообщение: "Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information."
+  PClip.cpp
+  Task9.cpp
+d:\универ\6 семестр\компьютерная графика\task9\task9\task3\MyForm.h(129): warning C4305: =: усечение из "double" к "float"
+d:\универ\6 семестр\компьютерная графика\task9\task9\task3\MyForm.h(258): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\универ\6 семестр\компьютерная графика\task9\task9\task3\MyForm.h(259): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\универ\6 семестр\компьютерная графика\task9\task9\task3\MyForm.h(260): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\универ\6 семестр\компьютерная графика\task9\task9\task3\MyForm.h(296): warning C4305: +=: усечение из "double" к "float"
+d:\универ\6 семестр\компьютерная графика\task9\task9\task3\MyForm.h(297): warning C4305: -=: усечение из "double" к "float"
+d:\универ\6 семестр\компьютерная графика\task9\task9\task3\MyForm.h(298): warning C4305: *=: усечение из "double" к "float"
+d:\универ\6 семестр\компьютерная графика\task9\task9\task3\MyForm.h(299): warning C4305: /=: усечение из "double" к "float"
+  Transform.cpp
+Transform.cpp(238): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+Transform.cpp(239): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+Transform.cpp(240): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+Transform.cpp(245): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+Transform.cpp(246): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+Transform.cpp(254): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+Transform.cpp(255): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+cl : командная строка warning D9035: использование параметра "clr:pure" нежелательно, он будет удален в следующих выпусках
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  task3.vcxproj -> D:\Универ\6 семестр\Компьютерная графика\Task9\task9\Debug\Task9.exe

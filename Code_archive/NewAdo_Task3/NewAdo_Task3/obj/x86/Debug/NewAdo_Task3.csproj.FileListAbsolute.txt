@@ -1,0 +1,10 @@
+C:\THE_CODE\NewAdo_Task3\NewAdo_Task3\bin\Debug\NewAdo_Task3.exe
+C:\THE_CODE\NewAdo_Task3\NewAdo_Task3\bin\Debug\NewAdo_Task3.pdb
+C:\THE_CODE\NewAdo_Task3\NewAdo_Task3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\THE_CODE\NewAdo_Task3\NewAdo_Task3\obj\x86\Debug\NewAdo_Task3.Properties.Resources.resources
+C:\THE_CODE\NewAdo_Task3\NewAdo_Task3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\THE_CODE\NewAdo_Task3\NewAdo_Task3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\THE_CODE\NewAdo_Task3\NewAdo_Task3\obj\x86\Debug\NewAdo_Task3.exe
+C:\THE_CODE\NewAdo_Task3\NewAdo_Task3\obj\x86\Debug\NewAdo_Task3.pdb
+C:\THE_CODE\NewAdo_Task3\NewAdo_Task3\obj\x86\Debug\NewAdo_Task3.Form1.resources
+C:\THE_CODE\NewAdo_Task3\NewAdo_Task3\bin\Debug\file.xml

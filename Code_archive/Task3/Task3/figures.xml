@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<ArrayOfFigure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Figure xsi:type="Circle">
+    <Radius>70</Radius>
+    <Center>
+      <X>100</X>
+      <Y>80</Y>
+    </Center>
+  </Figure>
+  <Figure xsi:type="Line">
+    <BeginPoint>
+      <X>300</X>
+      <Y>250</Y>
+    </BeginPoint>
+    <EndPoint>
+      <X>0</X>
+      <Y>30</Y>
+    </EndPoint>
+  </Figure>
+  <Figure xsi:type="Triangle">
+    <FirstPoint>
+      <X>70</X>
+      <Y>350</Y>
+    </FirstPoint>
+    <SecondPoint>
+      <X>100</X>
+      <Y>20</Y>
+    </SecondPoint>
+    <ThirdPoint>
+      <X>150</X>
+      <Y>100</Y>
+    </ThirdPoint>
+  </Figure>
+  <Figure xsi:type="Rectangle">
+    <LeftUpPoint>
+      <X>220</X>
+      <Y>200</Y>
+    </LeftUpPoint>
+    <Width>100</Width>
+    <Height>150</Height>
+  </Figure>
+</ArrayOfFigure>
