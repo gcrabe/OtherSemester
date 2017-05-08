@@ -1,0 +1,20 @@
+#include <stdio.h>
+#include <omp.h>
+
+int main()
+{
+	int cnt, num;
+
+#pragma omp parallel num_threads(4)
+	{
+		cnt = omp_get_num_threads();
+		num = omp_get_thread_num();
+
+		if (!num)
+			printf("Count of threads = %d\n", cnt);
+		else
+			printf("Thread #%d\n", num);
+	}
+
+	return 0;
+}

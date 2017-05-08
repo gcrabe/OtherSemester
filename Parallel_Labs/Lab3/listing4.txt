@@ -1,0 +1,29 @@
+#include <stdio.h>
+#include <omp.h>
+
+#define MAXN 35
+
+int main()
+{
+	int a[MAXN], b[MAXN], c[MAXN];
+	int i, n;
+
+	for (i = 0; i < MAXN; i++)
+		a[i] = i,
+		b[i] = 2 * i,
+		c[i] = 0;
+
+#pragma omp parallel num_threads(4) shared(a, b, c) private (i, n)
+	{
+		n = omp_get_thread_num();
+
+#pragma omp for
+		for (i = 0; i < MAXN; i++)
+		{
+			c[i] = a[i] + b[i];
+			printf("Thread #%d folded elements number %d\n", n, i);
+		}
+	}
+
+	return 0;
+}

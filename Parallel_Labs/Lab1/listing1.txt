@@ -1,0 +1,14 @@
+#include <cstdio>
+
+int main()
+{
+#ifdef _OPENMP
+	printf("OpenMP is supported\n");
+	int y = _OPENMP / 100;
+	int m = _OPENMP % 100;
+	printf("Supported Standard: Year: %d Month : %d\n", y, m);
+#else
+	printf("OpenMP is not supported\n");
+#endif
+	return 0;
+}

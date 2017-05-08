@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <omp.h>
+
+int n;
+#pragma omp threadprivate(n)
+
+int main()
+{
+	n = 1;
+
+#pragma omp parallel num_threads(4) copyin(n)
+	{
+		printf("Value of n = %d\n", n);
+	}
+
+	return 0;
+}

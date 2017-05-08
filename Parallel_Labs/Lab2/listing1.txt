@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <omp.h>
+
+void test()
+{
+	puts(omp_in_parallel() ? "Parallel region" : "Serial region"); 
+}
+
+int main()
+{
+	test();
+
+#pragma omp parallel
+	{
+#pragma omp master
+		{
+			test();
+		}
+	}
+	return 0;
+}

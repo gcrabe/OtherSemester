@@ -1,0 +1,33 @@
+#include <stdio.h>
+#include <omp.h>
+
+int n;
+#pragma omp threadprivate(n)
+
+int main()
+{
+	int num;
+	n = 1;
+
+	omp_set_dynamic(0);
+	omp_set_num_threads(4);
+
+#pragma omp parallel private(num)
+	{
+		num = omp_get_thread_num();
+		printf("Value of n in thread %d (start) = %d\n", num, n);
+
+		n = omp_get_thread_num();
+		printf("Value of n in thread %d (end) = %d\n", num, n);
+	}
+
+	printf("Value of n (middle) = %d\n", n);
+	
+#pragma omp parallel private(num)
+	{
+		num = omp_get_thread_num();
+		printf("Value of n in thread %d (again) = %d\n", num, n);
+	}
+
+	return 0;
+}

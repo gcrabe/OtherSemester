@@ -1,0 +1,29 @@
+#include <stdio.h>
+#include <omp.h>
+
+int main()
+{
+	int n;
+
+#pragma omp parallel num_threads(3) private(n)
+	{
+		n = 1;
+
+#pragma omp master
+		{
+			n = 2;
+		}
+
+		printf("First value of n = %d\n", n);
+
+#pragma omp barrier
+#pragma omp master
+		{
+			n = 3;
+		}
+
+		printf("Second value of n = %d\n", n);
+	}
+
+	return 0;
+}

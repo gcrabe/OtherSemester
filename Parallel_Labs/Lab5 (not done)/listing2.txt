@@ -1,0 +1,56 @@
+#include <time.h>
+#include <iostream>
+
+double *APtr = NULL, *BPtr = NULL, *CPtr = NULL;
+
+#define A(i,j) APtr[N*((j)-1)+(i)-1]
+#define B(i) BPtr[(i)-1]
+
+#ifdef _WIN32
+#define DGESV_Func DGESV
+#else
+#define DGESV_Func dgesv_
+#endif
+
+extern "C" void DGESV_Func(int* n, int* nrhs, double* a, int* lda, int* ipiv, double* b, int* ldb, int* info );
+
+void Tst_Func(int N)
+{
+	APtr= new double[N*N];
+	BPtr= new double[N];
+	
+	int * IPIV=new int[N];
+
+	for (int i = 1; i <= N; i++)
+	{
+		for (int j = 1; j <= N; j++)
+		{
+			double DI = i - j; // Инициализация матрицы системы
+			A(i, j) = 1.0 / (1.0 + DI * DI * DI) + 1.0 / (2.0 + DI * DI * DI);
+		}
+
+		B(i) = 1 + 1 / (i * i);
+	}
+
+	int nrhs=1;
+	int info;
+	double Tms = clock();
+
+	DGESV_Func(&N, &nrhs, APtr, &N, IPIV, BPtr, &N, &info);
+	Tms = (clock() - Tms) / CLOCKS_PER_SEC;
+
+	std::cout<<"Time="<<Tms<<" Sec"<<std::endl;
+	std::cout<<"info="<<info<<std::endl;
+	
+	delete[] IPIV;
+	delete[] BPtr;
+	delete[] APtr;
+}
+
+int main(void)
+{
+	for (int N = 1024; N <= 4098; N *= 2)
+		Tst_Func(N);
+
+	system("pause");
+}

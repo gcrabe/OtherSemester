@@ -1,0 +1,16 @@
+#include <cstdio>
+#include <omp.h>
+
+int main()
+{
+	puts("Serial region #1");
+
+#pragma omp parallel
+	{
+		puts("Parallel region");
+	}
+
+	puts("Serial region #2");
+
+	return 0;
+}

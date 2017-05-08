@@ -1,0 +1,22 @@
+#include <windows.h>
+#include <stdio.h>
+#include <omp.h>
+
+#define MAXN 36
+
+int main()
+{
+	int i;
+
+#pragma omp parallel num_threads(4) private(i)
+	{
+#pragma omp for schedule(static, 5)
+		for (i = 0; i < MAXN; i++)
+		{
+			printf("Thread #%d completed the iteration %d\n", omp_get_thread_num(), i);
+			Sleep(1000);
+		}
+	}
+
+	return 0;
+}

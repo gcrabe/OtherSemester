@@ -1,0 +1,19 @@
+#include <cstdio>
+#include <omp.h>
+#include <iostream>
+
+int main()
+{
+	double start_time = omp_get_wtime();
+	double end_time = omp_get_wtime();
+
+	double tick = omp_get_wtick();
+
+	//std::cout << end_time - start_time << std::endl;
+	//std::cout << "Times accuracy: " << tick << std::endl;
+
+	printf("Diff: %.2f\n", end_time - start_time);
+	printf("Timer accuracy: %e\n", tick);
+
+	return 0;
+}

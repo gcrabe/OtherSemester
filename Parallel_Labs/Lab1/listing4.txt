@@ -1,0 +1,38 @@
+#include <cstdio>
+#include <cmath>
+#include <omp.h>
+
+int main()
+{
+	printf("Serial region #1\nNumber of OMP Threads = ");
+
+	int n;
+	scanf("%d", &n);
+
+	printf("\n");
+
+	n = abs(n);
+	n = (n != 0) ? n : 1;
+
+	omp_set_dynamic(0);
+	omp_set_num_threads(n);
+
+#pragma omp parallel
+	{
+		puts("Parallel region #1");
+	}
+
+	puts("Serial region #2");
+
+	omp_set_dynamic(1);
+	omp_set_num_threads(n);
+
+#pragma omp parallel
+	{
+		puts("Parallel region #2");
+	}
+
+	puts("Serial region #3");
+
+	return 0;
+}

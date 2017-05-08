@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include <omp.h>
+
+int main()
+{
+#pragma omp parallel num_threads(3)
+	{
+		puts("Print message #1");
+
+#pragma omp single nowait
+		{
+			puts("One thread");
+		}
+
+		puts("Print message #2");
+	}
+
+	return 0;
+}

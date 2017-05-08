@@ -1,0 +1,30 @@
+#include <stdio.h>
+#include <omp.h>
+
+#define NMAX 8
+
+int main()
+{
+	int arr[NMAX];
+
+	puts("Array at the beginning of thre program");
+
+	for (int i = 0; i < NMAX; i++)
+	{
+		arr[i] = 0;
+		printf("arr[ %i ] = %d\n", i, arr[i]);
+	}
+
+#pragma omp parallel num_threads(NMAX) shared(arr)
+	{
+		int idx = omp_get_thread_num();
+		arr[idx] = idx;
+	}
+
+	puts("Array at the end of the program");
+
+	for (int i = 0; i < NMAX; i++)
+		printf("arr[ %i ] = %d\n", i, arr[i]);
+
+	return 0;
+}

@@ -1,0 +1,20 @@
+#include <cstdio>
+#include <omp.h>
+
+int main()
+{
+	printf("OMP_DYNAMIC value is: %d\n", omp_get_dynamic());
+	
+	omp_set_dynamic(1);
+	printf("OMP_DYNAMIC value is: %d\n", omp_get_dynamic());
+
+#pragma omp parallel num_threads(128)
+	{
+#pragma omp master
+		{
+			printf("Parallel region, %d threads\n", omp_get_num_threads());
+		}
+	}
+
+	return 0;
+}
