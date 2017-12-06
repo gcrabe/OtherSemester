@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Students table</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<link rel="stylesheet" type="text/css" href="bower_components/picnic/picnic.min.css">
+		<script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.12/js/jquery.dataTables.min.js"></script>
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.validation/1.15.1/jquery.validate.min.js"></script>
+	  	<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.12/js/dataTables.bootstrap.min.js"></script> -->
+		<!-- <link href="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.12/css/dataTables.bootstrap.min.css" rel="stylesheet"/> -->
+		<!-- <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css"> -->
+		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+		<!-- <script type="text/javascript" src="bower_components/jquery-ui.min.js"></script> -->
+		<!-- <link rel="stylesheet" href="bower_components/jquery-ui/themes/smoothness/jquery-ui.min.css"> -->
+	</head>
+	<body>
+		<section class="main_section">
+			<h1>Students Table</h1>
+			<!-- <fieldset class="flex two">
+				<label><input type="text" name="search_input" placeholder="Info..."></label>
+				<label id="search_button"><button>Search</button></label>
+			</fieldset> -->
+			<section>
+				<label id="add_label" for="modal_label" class="button">Add new</label>
+				<label id="edit_label" class="button warning">Edit</label>
+				<label id="delete_label" class="button error">Delete</label>
+			</section>
+			<div id="modal_box" class="modal">
+				<input id="modal_label" type="checkbox">
+				<label for="modal_label" class="overlay"></label>
+				<article>
+					<header>
+						<h3>Add new student</h3>
+						<label for="modal_label" class="close">&times;</label>
+					</header>
+					<section class="content">
+						<form id="modal_form">
+							Имя<br><input type="text" id="modal_first_name" name="modal_first_name" placeholder="First Name">
+							Отчество<br><input type="text" id="modal_mid_name" name="modal_mid_name" placeholder="Middle Name">
+							Фамилия<br><input type="text" id="modal_last_name" name="modal_last_name" placeholder="Last Name">
+							E-mail<br><input type="text" id="modal_email" name="modal_email" placeholder="example@service.com">
+							Дата рождения<br><input type="text" id="modal_date_birth" name="modal_date_birth">
+							Пол<br>
+							<select id="modal_gender">
+								<option id="modal_gender_male" value="male">муж.</option>
+								<option id="modal_gender_female" value="female">жен.</option>
+							</select>
+							Курс<br><input id="modal_course" name="modal_course">
+								<!-- <div id="slider"></div> -->
+						</form>
+					</section>
+					<footer>
+						<a id="modal_button" class="button">Add new item</a>
+						<label for="modal_label" class="button dangerous">Cancel</label>
+					</footer>
+				</article>
+			</div>
+			<table id="main_data_table" class="main_table">
+				<thead>
+					<tr>
+						<th>Фамилия</th>
+						<th>Имя</th>
+						<th>Отчество</th>
+						<th>E-mail</th>
+						<th>Дата рождения</th>
+						<th>Пол</th>
+						<th>Курс</th>
+					</tr>
+				</thead>
+				<tbody>
+					<!-- content from js objects -->
+				</tbody>
+			</table>
+		</section>
+	</body>
+	<script type="text/javascript" src="main.js"></script>
+</html>

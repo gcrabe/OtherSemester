@@ -1,0 +1,24 @@
+{
+  "name": "jquery_task",
+  "version": "1.0.0",
+  "description": "table of students with jquery",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gcrabe/WebCourse.git"
+  },
+  "keywords": [
+    "jquery",
+    "table",
+    "picnic"
+  ],
+  "author": "gcrabe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gcrabe/WebCourse/issues"
+  },
+  "homepage": "https://github.com/gcrabe/WebCourse#readme"
+}

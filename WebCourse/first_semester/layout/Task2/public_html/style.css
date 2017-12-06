@@ -1,0 +1,188 @@
+body {
+    background-color: #cadae7;
+    font: 12pt Arial, Helvetica, sans-serif;
+    width: 1100px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.headerNav {
+    width: 100%;
+    float: right;
+    padding: 0px;
+    margin: 0px;
+    font-size: 1em;
+    font-weight: 600;
+    text-align: right;
+}
+
+a:href {
+    color: #deace1;
+    text-decoration: none;
+
+}
+
+.headerNav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.headerNav ul {
+    margin-left: 515px;
+}
+
+.headerNav img {
+    float: left;
+}
+
+.headerNav a {
+    color: #000000;
+}
+
+.classicNav {
+    float: left;
+    width: 200px;
+}
+.classicNav ul {
+    padding: 0px;
+}
+
+.classicNav li:hover a {
+    color: white;
+    background: #94c0e0;
+}
+
+.classicNav li a {
+    display: block;
+    width: 200px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 2.5%;
+}
+
+.classicNav li {
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #94C0E0;
+}
+
+.mainPage {
+    margin-left: 220px;
+}
+
+.main-table {
+    text-align: center;
+    border: 1px solid #0360A3;
+}
+
+.main-table th {
+    background: #5EA1D1;
+}
+
+nav li a {
+    text-decoration: none;
+}
+
+.list {
+    list-style-type: disc;
+}
+
+.non-circle-list {
+    list-style-type: circle;
+}
+
+.footerNav {
+    float: left;
+    margin-right: 20%;
+}
+
+.footerNav li {
+    display: inline;
+    margin-right: 1px;
+    margin-left: 3px;
+    padding-left: 0px;
+    list-style-type: none;
+    padding-left:6px;
+    border-left: 2px solid #000000;
+}
+
+.footerNav li:first-child {		
+    border-left: none;			
+}
+
+.footerNav ul {
+    padding-left: 0px;
+}
+
+.footerNav a {
+    color: #000000;
+}
+
+footer p {
+    float: right;
+}
+
+a:hover,a.active {
+    color:#deace1;
+}
+
+.clearfix:after {
+    content: "";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+.clearfix {
+    display: inline-block;
+}
+
+ul.navMenu liv {
+    list-style-type: none;
+}
+
+li.chromeLi {
+    color: #ff0000;
+    font-style: italic;
+}
+
+li.firefoxLi {
+    color: #008000;
+    font-style: italic;
+}
+
+li.IELi {
+    color: #ff0000;
+    font-style: italic;
+}
+
+li.IE8Li {
+    color: #5259f5;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+li.IE10Li {
+    color: #830884;
+    text-decoration: underline;
+}
+
+li.EdgeLi {
+    color: #fdd70a;
+}
+
+li.anotherLi {
+    color: #808080;
+    font-style: italic;
+}
+
+.mainPage a[href="http://isp.netscape.com"] {
+    color: #deace1;
+    text-decoration: none;
+}
+
+.mainPage a[href="http://microsoft.com"] {
+    color: #deace1;			
+    font-weight: bold;
+}

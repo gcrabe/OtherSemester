@@ -1,0 +1,26 @@
+{
+  "name": "jquery_task",
+  "description": "table of students with jquery",
+  "main": "index.html",
+  "authors": [
+    "gcrabe"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jquery",
+    "table",
+    "picnic"
+  ],
+  "homepage": "https://github.com/gcrabe/WebCourse",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "picnic": "^6.3.2",
+    "jquery": "^3.1.1"
+  }
+}

@@ -1,0 +1,83 @@
+.main_section {
+	margin-left: 10px;
+}
+
+.main_section h1 {
+	margin-left: 20px;
+}
+
+.main_table {
+	margin-top: 10px;
+}
+
+#modal_add_gender {
+	display: inline-block;
+}
+
+fieldset {
+	align-items: center;
+}
+
+#search_button {
+	width: 88px;
+}
+
+.selected {
+	background-color: #878787 !important;
+}
+
+.dataTables_length {
+	display: none !important;
+}
+
+#main_data_table_filter {
+	/*display: none !important;*/
+	width: 50%;
+}
+
+.dataTables_paginate {
+	display: none !important;
+}
+
+.dataTables_info {
+	display: none !important;
+}
+
+.ui-datepicker-calendar {
+	background: #a5a5a5 !important;
+}
+
+.ui-datepicker-header {
+	background: #a5a5a5 !important;
+}
+
+.ui-datepicker-prev {
+	font-weight: bold !important;
+	margin: 2px 5px 2px 5px !important;
+}
+
+.ui-datepicker-next {
+	font-weight: bold !important;
+	margin: 2px 5px 2px 5px !important;
+}
+
+.ui-datepicker-title {
+	margin-left: 5px !important;
+}
+
+.ui-helper-hidden-accessible {
+	display: none !important;
+}
+
+.ui-menu-item {
+	background: #a5a5a5 !important;
+	width: 50% !important;	
+}
+
+ul {
+	list-style-type: none !important;
+}
+
+li {
+	margin: 0 !important;
+}

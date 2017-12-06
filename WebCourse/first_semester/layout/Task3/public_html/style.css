@@ -1,0 +1,70 @@
+#line {
+  background: rgb(204, 204, 204);
+  width: 350px;
+  height: 5px;
+  margin: 100px 50px;
+}
+
+.step1 {
+  line-height: 50px;
+  color: white;
+  text-align: center;
+  width: 50px;
+  height: 50px;
+  background: rgb(178, 210, 53);
+  border-radius: 30px;
+  position: relative;
+  bottom: 128px;
+  left: 35px;
+}
+
+.step2 {
+  line-height: 50px;
+  color: white;
+  text-align: center;
+  width: 50px;
+  height: 50px;
+  background: rgb(178, 210, 53);
+  border-radius: 30px;
+  position: relative;
+  bottom: 177px;
+  left: 125px;
+}
+
+.step3 {
+  line-height: 50px;
+  color: white;
+  text-align: center;
+  width: 50px;
+  height: 50px;
+  background: rgb(178, 210, 53);
+  border-radius: 30px;
+  position: relative;
+  bottom: 227px;
+  left: 215px;
+}
+
+.step4 {
+  line-height: 50px;
+  color: white;
+  text-align: center;
+  width: 50px;
+  height: 50px;
+  background: rgb(171, 74, 156);
+  border-radius: 30px;
+  position: relative;
+  bottom: 275px;
+  left: 300px;
+}
+
+.step5 {
+  line-height: 50px;
+  text-align: center;
+  width: 50px;
+  height: 50px;
+  background: rgb(204, 204, 204);
+  border-radius: 30px;
+  position: relative;
+  bottom: 325px;
+  left: 390px;
+}

@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width:90%;
+    margin: 0 auto;
+}
+
+body{
+	min-width: 420px;
+}
+
+.row:before,
+.row:after,
+.container:before,
+.container:after{
+    content: " ";
+    display: table;
+}
+
+.row:after{
+    clear: both;
+}
+
+.header-popular{
+	font-family: "MV BOLI";
+	font-size: 20px;
+	background: #A1D2D2;
+}
+
+.bottom-link{
+	list-style-type: none;
+}
+li{
+	margin: 5px;
+}
+
+ a{
+	 text-decoration: underline;
+	 color: #000;
+ }
+
+.col{
+    float: left;
+    margin: 0 0 1em;
+    padding: 0 1em;
+    text-align: center;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+.p{
+	 font-family: Courier;
+}
+
+.top-menu{
+	color: #000;
+	float: right;
+	margin: 0 0 2em;
+    padding: 0 1em;
+    text-align: center;
+}
+.top-menu-color{
+	background: #B2B2B2;
+}
+.top-menu-xs{
+	padding: 25px;
+}
+.glyphicon.glyphicon-shopping-cart{
+	margin-top: 1em;
+	margin-bottom:1.5em;
+}
+.input-group{
+	margin-top: 0.5em;
+}
+.btn.btn-link.top-menu{
+  margin-top: 12px;
+  margin-bottom: 0px;
+}
+.footer-menu{
+	background: #B2B2B2;
+}
+.support-information{
+	 text-align: center;
+}
