@@ -7,3 +7,4 @@ Various university courses
 - Parallel labs (2016)
 - Real Time Systems (Spring 2017)
 - Web Course (Second part 2016 & First part 2017)
+- Formal Languages (Autumn 2016)

@@ -1,0 +1,9 @@
+program example;
+var string str
+var boolean bool
+begin
+    if not (a_ and 3 + 2) then
+    a2 := 5;
+    else
+    d := 10.2e+4 + "abacaba";
+end; {" text    :=;+"}

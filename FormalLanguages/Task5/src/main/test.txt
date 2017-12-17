@@ -1,0 +1,18 @@
+<real 3 (\d*)(\.\d*)(e(((\+|\-)\d*)|(\d*)))>
+<int 4 (\d*)>
+<ws 5 (\n|\r|\t|\ )*>
+<; 6 \;>
+<) 7 \)>
+<( 8 \(>
+<id 9 (\w|\_|\')(\w|\d|\_|\')*>
+<op 10 (\+|\-|\*|\/)>
+<op_eq 11 (\:\=)>
+<kw 12 program|var|real|string|boolean|if|then|else|for|to|do|begin|end>
+
+<IND 1 (\+,\-,\*,\/,\%,\!,\_,\w,\d)*> 
+<REAL 2 (\d*)(\.\d*)(e(((\+|\-)\d*)|(\d*)))>
+<INT 3 (\d*)>
+<WS 4 (\n|\r|\t|\ )*>
+<) 5 \)>
+<( 6 \(>
+<KW 7 define|if|cond|lambda>

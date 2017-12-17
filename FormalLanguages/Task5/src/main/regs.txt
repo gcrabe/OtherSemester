@@ -1,0 +1,12 @@
+<KW 12 program|var|real|string|boolean|if|then|else|for|to|do|begin|end>
+<OP_EQ 11 (\:\=)>
+<OP 10 (\+,\-,\*,\/|and|or|not)>
+<ID 9 (\w,\',\_)((\_,\w,\',\d)*)>
+<( 8 \(>
+<) 7 \)>
+<; 6 \;>
+<INT 5 (\d*)>
+<REAL 4 (\d*)(\.\d*)(e(((\+|\-)\d*)|(\d*)))>
+<WS 3 (\n|\r|\t|\ )*>
+<CONST_STRING 2 (\"((\w,\d,\',\ ,\r,\n,\t,\:,\=,\;,\+,\-,\*,\/)*)\")>
+<COMMENT 1 (\{((\w,\d,\',\",\ ,\r,\n,\t,\:,\=,\;,\+,\-,\*,\/)*)\})>

@@ -1,0 +1,11 @@
+D:\Универ\7 семестр\Теория формальных языкови трансляции\Solution4\Solution4\bin\Debug\Solution4.exe.config
+D:\Универ\7 семестр\Теория формальных языкови трансляции\Solution4\Solution4\bin\Debug\Solution4.exe
+D:\Универ\7 семестр\Теория формальных языкови трансляции\Solution4\Solution4\bin\Debug\Solution4.pdb
+D:\Универ\7 семестр\Теория формальных языкови трансляции\Solution4\Solution4\obj\Debug\Solution4.csprojResolveAssemblyReference.cache
+D:\Универ\7 семестр\Теория формальных языкови трансляции\Solution4\Solution4\obj\Debug\Solution4.exe
+D:\Универ\7 семестр\Теория формальных языкови трансляции\Solution4\Solution4\obj\Debug\Solution4.pdb
+D:\Универ\7 семестр\Теория формальных языкови трансляции\Solution4\Solution4\bin\Debug\tokens.txt
+D:\Универ\7 семестр\Теория формальных языкови трансляции\Solution4\Solution4\bin\Debug\program.txt
+D:\FormalLanguages\template\Solution4\Solution4\Solution4\bin\Debug\Solution4.exe.config
+D:\FormalLanguages\template\Solution4\Solution4\Solution4\obj\Debug\Solution4.exe
+D:\FormalLanguages\template\Solution4\Solution4\Solution4\obj\Debug\Solution4.pdb
