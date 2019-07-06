@@ -1,0 +1,11 @@
+DELETE FROM FactHoliday
+DELETE FROM Address
+DELETE FROM Salaries
+DELETE FROM CovetiveEmployees
+DELETE FROM PlanHoliday
+DELETE FROM Holiday
+DELETE FROM StuffDepartment
+DELETE FROM FreePosts
+DELETE FROM Posts
+DELETE FROM Departments
+DELETE FROM Employees

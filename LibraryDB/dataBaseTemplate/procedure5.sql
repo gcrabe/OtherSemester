@@ -1,0 +1,20 @@
+GO
+CREATE PROCEDURE Trainers_cursor @Curs CURSOR VARYING OUTPUT
+AS
+SET NOCOUNT ON;
+SET @Curs = CURSOR
+FORWARD_ONLY STATIC FOR
+SELECT id_trainer, id_sport FROM Trainers
+OPEN @curs;
+GO
+
+
+DECLARE @MyCursor CURSOR;
+EXEC Trainers_cursor @Curs = @MyCursor OUTPUT;
+WHILE (@@FETCH_STATUS = 0)
+BEGIN;
+     FETCH NEXT FROM @MyCursor;
+END;
+CLOSE @MyCursor;
+DEALLOCATE @MyCursor;
+GO

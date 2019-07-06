@@ -1,0 +1,11 @@
+DROP TABLE FactHoliday
+DROP TABLE Address 
+DROP TABLE Salaries
+DROP TABLE CovetiveEmployees
+DROP TABLE PlanHoliday
+DROP TABLE Holiday
+DROP TABLE StuffDepartment
+DROP TABLE FreePosts
+DROP TABLE Posts
+DROP TABLE Departments
+DROP TABLE Employees

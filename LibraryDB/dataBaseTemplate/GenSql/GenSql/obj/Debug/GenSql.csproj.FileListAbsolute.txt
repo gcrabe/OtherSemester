@@ -1,0 +1,6 @@
+D:\Универ\6 семестр\Базы данных\GenSql\GenSql\bin\Debug\GenSql.exe.config
+D:\Универ\6 семестр\Базы данных\GenSql\GenSql\bin\Debug\GenSql.exe
+D:\Универ\6 семестр\Базы данных\GenSql\GenSql\bin\Debug\GenSql.pdb
+D:\Универ\6 семестр\Базы данных\GenSql\GenSql\obj\Debug\GenSql.csprojResolveAssemblyReference.cache
+D:\Универ\6 семестр\Базы данных\GenSql\GenSql\obj\Debug\GenSql.exe
+D:\Универ\6 семестр\Базы данных\GenSql\GenSql\obj\Debug\GenSql.pdb
