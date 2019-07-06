@@ -1,0 +1,27 @@
+﻿Построение начато 25.10.2016 14:09:51.
+     1>Проект "M:\GraphicsProblems\Task4\Task3\Task3.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Task3.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+       CoreResGen:
+         Отсутствуют ресурсы, устаревшие по отношению к файлам своих источников. Пропуск формирования ресурсов.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         Task3.vcxproj -> M:\GraphicsProblems\Task4\Debug\Task3.exe
+       MetaGen:
+       Целевой объект "MetaGen" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       FinalizeBuildStatus:
+         Файл "Debug\Task3.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Task3.lastbuildstate".
+     1>Построение проекта "M:\GraphicsProblems\Task4\Task3\Task3.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.15

@@ -1,0 +1,222 @@
+20 160 60 160
+#g->DrawLine(blackPen, w * 2, w * 16, w * 6, w * 16);
+60 160 50 170
+#g->DrawLine(blackPen, w * 6, w * 16, w * 5, w * 17);
+50 170 80 170
+#g->DrawLine(blackPen, w * 5, w * 17, w * 8, w * 17);
+80 170 100 160
+#g->DrawLine(blackPen, w * 8, w * 17, w * 10, w * 16);
+100 160 110 150
+#g->DrawLine(blackPen, w * 10, w * 16, w * 11, w * 15);
+110 150 130 150
+#g->DrawLine(blackPen, w * 11, w * 15, w * 13, w * 15);
+130 150 150 160
+#g->DrawLine(blackPen, w * 13, w * 15, w * 15, w * 16);
+150 160 230 160
+#g->DrawLine(blackPen, w * 15, w * 16, w * 23, w * 16);
+230 160  260 150
+#g->DrawLine(blackPen, w * 23, w * 16, w * 26, w * 15);
+260 150 310 150
+#g->DrawLine(blackPen, w * 26, w * 15, w * 31, w * 15);
+310 150 330 140
+#g->DrawLine(blackPen, w * 31, w * 15, w * 33, w * 14);
+330 140 360 140
+#g->DrawLine(blackPen, w * 33, w * 14, w * 36, w * 14);
+360 140 360 120
+#g->DrawLine(blackPen, w * 36, w * 14, w * 36, w * 12);
+360 120 350 110
+#g->DrawLine(blackPen, w * 36, w * 12, w * 35, w * 11);
+350 110 340 110
+#g->DrawLine(blackPen, w * 35, w * 11, w * 34, w * 11);
+340 110 350 120
+#g->DrawLine(blackPen, w * 34, w * 11, w * 35, w * 12);
+340 110 320 120
+#g->DrawLine(blackPen, w * 34, w * 11, w * 32, w * 12);
+320 120 140 120
+#g->DrawLine(blackPen, w * 32, w * 12, w * 14, w * 12);
+140 120 150 130
+#g->DrawLine(blackPen, w * 14, w * 12, w * 15, w * 13);
+140 120 130 140
+#g->DrawLine(blackPen, w * 14, w * 12, w * 13, w * 14);
+130 140 150 140
+#g->DrawLine(blackPen, w * 13, w * 14, w * 15, w * 14);
+130 140 130 150
+#g->DrawLine(blackPen, w * 13, w * 14, w * 13, w * 15);
+140 120 120 110
+#g->DrawLine(blackPen, w * 14, w * 12, w * 12, w * 11);
+120 110 120 90
+#g->DrawLine(blackPen, w * 12, w * 11, w * 12, w * 9);
+120 90 110 70
+#g->DrawLine(blackPen, w * 12, w * 9, w * 11, w * 7);
+110 70 100 60
+#g->DrawLine(blackPen, w * 11, w * 7, w * 10, w * 6);
+100 60 90 70
+#g->DrawLine(blackPen, w * 10, w * 6, w * 9, w * 7);
+90 70 90 80
+#g->DrawLine(blackPen, w * 9, w * 7, w * 9, w * 8);
+80 70 100 90
+#g->DrawLine(blackPen, w * 8, w * 7, w * 10, w * 9);
+100 90 110 110
+#g->DrawLine(blackPen, w * 10, w * 9, w * 11, w * 11);
+110 110 110 120
+#g->DrawLine(blackPen, w * 11, w * 11, w * 11, w * 12);
+110 120 100 110
+#g->DrawLine(blackPen, w * 11, w * 12, w * 10, w * 11);
+100 110 80 100
+#g->DrawLine(blackPen, w * 10, w * 11, w * 8, w * 10);
+80 100 70 90
+#g->DrawLine(blackPen, w * 8, w * 10, w * 7, w * 9);
+70 90 70 80
+#g->DrawLine(blackPen, w * 7, w * 9, w * 7, w * 8);
+80 70 70 70
+#g->DrawLine(blackPen, w * 8, w * 7, w * 7, w * 7);
+70 70 20 120
+#g->DrawLine(blackPen, w * 7, w * 7, w * 2, w * 12);
+20 120 20 130
+#g->DrawLine(blackPen, w * 2, w * 12, w * 2, w * 13);
+20 130 30 140
+#g->DrawLine(blackPen, w * 2, w * 13, w * 3, w * 14);
+30 140 50 130
+#g->DrawLine(blackPen, w * 3, w * 14, w * 5, w * 13);
+50 130 100 130
+#g->DrawLine(blackPen, w * 5, w * 13, w * 10, w * 13);
+100 130 120 110
+#g->DrawLine(blackPen, w * 10, w * 13, w * 12, w * 11);
+100 130 100 140
+#g->DrawLine(blackPen, w * 10, w * 13, w * 10, w * 14);
+100 140 110 150
+#g->DrawLine(blackPen, w * 10, w * 14, w * 11, w * 15);
+80 130 60 140
+#g->DrawLine(blackPen, w * 8, w * 13, w * 6, w * 14);
+60 140 50 140
+#g->DrawLine(blackPen, w * 6, w * 14, w * 5, w * 14);
+50 140 30 150
+#g->DrawLine(blackPen, w * 5, w * 14, w * 3, w * 15);
+30 150 20 160
+#g->DrawLine(blackPen, w * 3, w * 15, w * 2, w * 16);
+130 100 120 80
+#g->DrawLine(blackPen, w * 13, w * 10, w * 12, w * 8);
+120 80 120 60
+#g->DrawLine(blackPen, w * 12, w * 8, w * 12, w * 6);
+150 90 130 70
+#g->DrawLine(blackPen, w * 15, w * 9, w * 13, w * 7);
+130 70 130 50
+#g->DrawLine(blackPen, w * 13, w * 7, w * 13, w * 5);
+140 80 140 60
+#g->DrawLine(blackPen, w * 14, w * 8, w * 14, w * 6);
+140 60 150 50
+#g->DrawLine(blackPen, w * 14, w * 6, w * 15, w * 5);
+150 50 170 70
+#g->DrawLine(blackPen, w * 15, w * 5, w * 17, w * 7);
+160 70 170 80
+#g->DrawLine(blackPen, w * 16, w * 7, w * 17, w * 8);
+150 50 160 50
+#g->DrawLine(blackPen, w * 15, w * 5, w * 16, w * 5);
+160 50 180 60
+#g->DrawLine(blackPen, w * 16, w * 5, w * 18, w * 6);
+180 60 200 50
+#g->DrawLine(blackPen, w * 18, w * 6, w * 20, w * 5);
+200 50 220 50
+#g->DrawLine(blackPen, w * 20, w * 5, w * 22, w * 5);
+220 50 210 40
+#g->DrawLine(blackPen, w * 22, w * 5, w * 21, w * 4);
+230 50 220 40
+#g->DrawLine(blackPen, w * 23, w * 5, w * 22, w * 4);
+230 50 230 40
+#g->DrawLine(blackPen, w * 23, w * 5, w * 23, w * 4);
+240 50 240 40
+#g->DrawLine(blackPen, w * 24, w * 5, w * 24, w * 4);
+240 50 260 50
+#g->DrawLine(blackPen, w * 24, w * 5, w * 26, w * 5);
+260 50 280 60
+#g->DrawLine(blackPen, w * 26, w * 5, w * 28, w * 6);
+280 60 290 60
+#g->DrawLine(blackPen, w * 28, w * 6, w * 29, w * 6);
+290 60 310 40
+#g->DrawLine(blackPen, w * 29, w * 6, w * 31, w * 4);
+310 40 300 60
+#g->DrawLine(blackPen, w * 31, w * 4, w * 30, w * 6);
+300 60 300 70
+#g->DrawLine(blackPen, w * 30, w * 6, w * 30, w * 7);
+300 70 320 90
+#g->DrawLine(blackPen, w * 30, w * 7, w * 32, w * 9);
+320 90 320 50
+#g->DrawLine(blackPen, w * 32, w * 9, w * 32, w * 5);
+320 50 310 40
+#g->DrawLine(blackPen, w * 32, w * 5, w * 31, w * 4);
+320 80 340 70
+#g->DrawLine(blackPen, w * 32, w * 8, w * 34, w * 7);
+340 70 350 50
+#g->DrawLine(blackPen, w * 34, w * 7, w * 35, w * 5);
+340 80 350 60
+#g->DrawLine(blackPen, w * 34, w * 8, w * 35, w * 6);
+340 80 330 90
+#g->DrawLine(blackPen, w * 34, w * 8, w * 33, w * 9);
+340 90 360 70
+#g->DrawLine(blackPen, w * 34, w * 9, w * 36, w * 7);
+350 90 370 80
+#g->DrawLine(blackPen, w * 35, w * 9, w * 37, w * 8);
+360 90 380 100
+#g->DrawLine(blackPen, w * 36, w * 9, w * 38, w * 10);
+370 100 380 110
+#g->DrawLine(blackPen, w * 37, w * 10, w * 38, w * 11);
+370 100 360 100
+#g->DrawLine(blackPen, w * 37, w * 10, w * 36, w * 10);
+360 100 370 120
+#g->DrawLine(blackPen, w * 36, w * 10, w * 37, w * 12);
+170 90 190 90
+#g->DrawLine(blackPen, w * 17, w * 9, w * 19, w * 9);
+180 90 180 100
+#g->DrawLine(blackPen, w * 18, w * 9, w * 18, w * 10);
+180 100 190 110
+#g->DrawLine(blackPen, w * 18, w * 10, w * 19, w * 11);
+190 110 210 115
+#g->DrawLine(blackPen, w * 19, w * 11, w * 21, w * 11+w/2);
+210 115 220 110
+#g->DrawLine(blackPen, w * 21, w * 11 + w / 2, w * 22, w * 11);
+220 110 230 100
+#g->DrawLine(blackPen, w * 22, w * 11, w * 23, w * 10);
+230 100 240 110
+#g->DrawLine(blackPen, w * 23, w * 10, w * 24, w * 11);
+240 110 250 110
+#g->DrawLine(blackPen, w * 24, w * 11, w * 25, w * 11);
+250 110 270 100
+#g->DrawLine(blackPen, w * 25, w * 11, w * 27, w * 10);
+270 100 280 90
+#g->DrawLine(blackPen, w * 27, w * 10, w * 28, w * 9);
+270 90 290 90
+#g->DrawLine(blackPen, w * 27, w * 9, w * 29, w * 9);
+230 100 230 90
+#g->DrawLine(blackPen, w * 23, w * 10, w * 23, w * 9);
+220 90 240 90
+#g->DrawLine(blackPen, w * 22, w * 9, w * 24, w * 9);
+220 90 220 80
+#g->DrawLine(blackPen, w * 22, w * 9, w * 22, w * 8);
+240 90 240 80
+#g->DrawLine(blackPen, w * 24, w * 9, w * 24, w * 8);
+220 80 240 80
+#g->DrawLine(blackPen, w * 22, w * 8, w * 24, w * 8);
+220 70 225 75
+#g->DrawLine(blackPen, w * 22, w * 7, w * 22+w/2, w * 7+w/2);
+220 70 225 65
+#g->DrawLine(blackPen, w * 22, w * 7, w * 22 + w / 2, w * 7 - w / 2);
+225 75 235 65
+#g->DrawLine(blackPen, w * 22 + w / 2, w * 7 + w / 2, w * 23 + w / 2, w * 6 + w / 2);
+225 65 235 75
+#g->DrawLine(blackPen, w * 22 + w / 2, w * 7 - w / 2, w * 23 + w / 2, w * 8 - w / 2);
+235 75 240 70
+#g->DrawLine(blackPen, w * 23 + w / 2, w * 8 - w / 2, w * 24, w * 7);
+240 70 235 65
+#g->DrawLine(blackPen, w * 24, w * 7, w * 24-w/2, w * 7-w/2);
+220 55 215 60
+#g->DrawLine(blackPen, w * 22, w * 5+w/2, w * 22-w/2, w * 6);
+230 55 240 60
+#g->DrawLine(blackPen, w * 23, w * 5 + w / 2, w * 24, w * 6);
+210 30 210 20
+#g->DrawLine(blackPen, w * 21, w * 3, w * 21, w * 2);
+210 20 220 10
+#g->DrawLine(blackPen, w * 21, w * 2, w * 22, w * 1);
+230 10 240 30
+#g->DrawLine(blackPen, w * 23, w * 1, w * 24, w * 3);
+150 70 160 90
+#g->DrawLine(blackPen, w * 15, w * 7, w * 16, w * 9);

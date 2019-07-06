@@ -1,0 +1,24 @@
+﻿  Clip.cpp
+Clip.cpp : warning C4335: Обнаружен файл в формате Mac: преобразуйте исходный файл в формат DOS или UNIX
+Clip.cpp(1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Function.cpp
+  MyForm.cpp
+d:\компьютерная графика\task5\task5\MyForm.h(153): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\компьютерная графика\task5\task5\MyForm.h(170): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\компьютерная графика\task5\task5\MyForm.h(197): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\компьютерная графика\task5\task5\MyForm.h(198): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\компьютерная графика\task5\task5\MyForm.h(199): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\компьютерная графика\task5\task5\MyForm.h(200): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+d:\компьютерная графика\task5\task5\MyForm.h(234): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\компьютерная графика\task5\task5\MyForm.h(234): warning C4305: аргумент: усечение из "double" к "float"
+d:\компьютерная графика\task5\task5\MyForm.h(236): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\компьютерная графика\task5\task5\MyForm.h(236): warning C4305: аргумент: усечение из "double" к "float"
+d:\компьютерная графика\task5\task5\MyForm.h(238): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\компьютерная графика\task5\task5\MyForm.h(238): warning C4305: аргумент: усечение из "double" к "float"
+d:\компьютерная графика\task5\task5\MyForm.h(240): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\компьютерная графика\task5\task5\MyForm.h(240): warning C4305: аргумент: усечение из "double" к "float"
+  Transform.cpp
+  Создание кода...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Task5.vcxproj -> D:\Компьютерная графика\Task5\Debug\Task5.exe
+  Task5.vcxproj -> D:\Компьютерная графика\Task5\Debug\Task5.pdb (Full PDB)

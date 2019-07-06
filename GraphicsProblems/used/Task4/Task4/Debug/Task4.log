@@ -1,0 +1,7 @@
+﻿  Transform.cpp
+Transform.cpp(269): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Transform.cpp(286): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Transform.cpp(291): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Transform.cpp(308): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Task4.vcxproj -> D:\Компьютерная графика\Task4\Debug\Task4.exe
+  Task4.vcxproj -> D:\Компьютерная графика\Task4\Debug\Task4.pdb (Full PDB)

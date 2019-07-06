@@ -1,0 +1,32 @@
+﻿Построение начато 09.10.2016 17:28:32.
+     1>Проект "M:\GraphicsProblems\Task2\Task2\Task2.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Task2.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Task2.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt Task2.cpp /clr:nostdlib 
+         Task2.cpp
+         Для всех выходных данных обновления не требуется.
+       CoreResGen:
+         Отсутствуют ресурсы, устаревшие по отношению к файлам своих источников. Пропуск формирования ресурсов.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"M:\GraphicsProblems\Task2\Debug\Task2.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Task2.Form1.resources /MANIFEST /ManifestFile:"Debug\Task2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"M:\GraphicsProblems\Task2\Debug\Task2.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\stdafx.obj
+         Debug\Task2.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Task2.vcxproj -> M:\GraphicsProblems\Task2\Debug\Task2.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"M:\GraphicsProblems\Task2\Debug\Task2.exe;#1" /manifest Debug\Task2.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\Task2.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Task2.lastbuildstate".
+     1>Построение проекта "M:\GraphicsProblems\Task2\Task2\Task2.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.93

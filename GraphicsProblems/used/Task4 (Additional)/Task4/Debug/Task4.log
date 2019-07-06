@@ -1,0 +1,31 @@
+﻿  Clip.cpp
+Clip.cpp : warning C4335: Обнаружен файл в формате Mac: преобразуйте исходный файл в формат DOS или UNIX
+Clip.cpp(1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  MyForm.cpp
+d:\компьютерная графика\task4 (additional)\task4\MyForm.h(182): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\компьютерная графика\task4 (additional)\task4\MyForm.h(183): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+d:\компьютерная графика\task4 (additional)\task4\MyForm.h(242): warning C4305: аргумент: усечение из "double" к "float"
+d:\компьютерная графика\task4 (additional)\task4\MyForm.h(243): warning C4305: аргумент: усечение из "double" к "float"
+d:\компьютерная графика\task4 (additional)\task4\MyForm.h(248): warning C4305: аргумент: усечение из "double" к "float"
+d:\компьютерная графика\task4 (additional)\task4\MyForm.h(249): warning C4305: аргумент: усечение из "double" к "float"
+d:\компьютерная графика\task4 (additional)\task4\MyForm.h(250): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\компьютерная графика\task4 (additional)\task4\MyForm.h(250): warning C4305: аргумент: усечение из "double" к "float"
+d:\компьютерная графика\task4 (additional)\task4\MyForm.h(251): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\компьютерная графика\task4 (additional)\task4\MyForm.h(251): warning C4305: аргумент: усечение из "double" к "float"
+d:\компьютерная графика\task4 (additional)\task4\MyForm.h(252): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\компьютерная графика\task4 (additional)\task4\MyForm.h(252): warning C4305: аргумент: усечение из "double" к "float"
+d:\компьютерная графика\task4 (additional)\task4\MyForm.h(253): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\компьютерная графика\task4 (additional)\task4\MyForm.h(253): warning C4305: аргумент: усечение из "double" к "float"
+  Transform.cpp
+Transform.cpp(269): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Transform.cpp(286): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Transform.cpp(291): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Transform.cpp(308): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Transform.cpp(363): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+Transform.cpp(364): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+Transform.cpp(367): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+Transform.cpp(368): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  Создание кода...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Task4.vcxproj -> D:\Компьютерная графика\Task4 (Additional)\Debug\Task4.exe
+  Task4.vcxproj -> D:\Компьютерная графика\Task4 (Additional)\Debug\Task4.pdb (Full PDB)
